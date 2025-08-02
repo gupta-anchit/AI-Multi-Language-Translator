@@ -42,8 +42,8 @@ pip install -r requirements.txt
 
 - Clone the repo:
 ```bash
-git clone https://github.com/gupta-anchit/Ai-Multi-Language-Translator.git
-cd i-Multi-Language-Translator
+git clone https://github.com/gupta-anchit/AI-Multi-Language-Translator.git
+cd AI-Multi-Language-Translator
 ```
 
 - Install dependencies:
@@ -83,3 +83,4 @@ Anchit Gupta
 
 
 Made with ❤️ using OpenAI's GPT + HuggingFace + Streamlit
+
