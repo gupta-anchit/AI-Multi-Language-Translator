@@ -43,7 +43,7 @@ pip install -r requirements.txt
 - Clone the repo:
 ```bash
 git clone https://github.com/gupta-anchit/Ai-Multi-Language-Translator.git
-cd ai-language-translator
+cd i-Multi-Language-Translator
 ```
 
 - Install dependencies:
@@ -80,5 +80,6 @@ MIT License. Free to use, modify, and distribute.
 ---
 ## 👨‍💻 Author
 Anchit Gupta
+
 
 Made with ❤️ using OpenAI's GPT + HuggingFace + Streamlit
